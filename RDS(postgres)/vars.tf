@@ -42,7 +42,7 @@ default = "0.0.0.0/0"
 }
 
 variable "RDS_PASSWORD"{
-  default ="123456789"
+ 
 }
 
 
